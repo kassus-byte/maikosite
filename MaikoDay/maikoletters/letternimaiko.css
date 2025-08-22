@@ -1,0 +1,62 @@
+
+.body {
+  display: flex;
+  overflow-x: hidden; /* Hides horizontal overflow within this div */
+  overflow-y: scroll; /
+  margin: 0;
+  align-content: center;
+  justify-content: center;
+  background-color: white;
+
+ 
+
+}
+
+.mainbody {
+  width: 1400px;
+  height: 1000px;
+}
+
+.choose{
+
+  width: 1600px;
+  margin-left: 340px;
+
+
+
+}
+
+.button{
+	
+	 margin-left: -1700px;
+}
+
+
+.note{
+	text-align: center;
+	justify-content: center;
+	font-family: Inter;
+	margin-top: 250px;
+	 margin-left: -100px;
+	
+}
+
+h1{
+	text-align: center;
+	justify-content: center;
+	font-family: Inter;
+	margin-top: 60px;
+	 margin-left: -1900px;
+
+	
+	
+}
+
+p{
+	
+	text-align: center;
+	justify-content: center;
+	font-family: Inter;
+	margin-top: 100px;
+	 margin-left: -1900px;
+}

@@ -1,0 +1,30 @@
+
+.body {
+  display: flex;
+  overflow: hidden;
+  margin: 0;
+  align-content: center;
+  justify-content: center;
+
+ 
+
+}
+
+.mainbody {
+  width: 1400px;
+  height: 1000px;
+}
+
+.homes{
+
+  width: 1600px;
+  margin-left: 20px;
+}
+
+.home{
+  
+  margin-top: 500px;
+  margin-left: -995px;
+	
+}
+

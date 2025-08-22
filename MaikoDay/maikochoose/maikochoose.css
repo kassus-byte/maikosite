@@ -1,0 +1,49 @@
+
+.body {
+  display: flex;
+  overflow: hidden;
+  margin: 0;
+  align-content: center;
+  justify-content: center;
+  background-color:  #ef9c3c;
+
+ 
+
+}
+
+.mainbody {
+  width: 1200px;
+  height: 1000px;
+}
+
+
+.choose{
+
+  width: 1600px;
+  margin-left: -700px;
+  margin-top: -150px;
+
+
+}
+
+.gifts{
+  
+  margin-top: 410px;
+  margin-left: -605px;
+	
+}
+
+.letters{
+	margin-top: 435px;
+  margin-left: -350px;
+	
+}
+
+
+.cancel{
+	margin-top: 550px;
+  margin-left: -900px;
+
+	
+}
+
